@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>865615871360-kjcbemark4pkbuebh58b0d4tbvu24qhu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.865615871360-kjcbemark4pkbuebh58b0d4tbvu24qhu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-E8U6kEP8dS-X813F386WgebJl_-Km4w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>865615871360</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.swikapps.speakout</string>
+	<key>PROJECT_ID</key>
+	<string>speakout-eb503</string>
+	<key>STORAGE_BUCKET</key>
+	<string>speakout-eb503.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:865615871360:ios:8879f16b6b5471f21f9565</string>
+	<key>DATABASE_URL</key>
+	<string>https://speakout-eb503.firebaseio.com</string>
+</dict>
+</plist>
